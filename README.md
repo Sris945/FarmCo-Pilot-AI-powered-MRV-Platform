@@ -1341,16 +1341,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ***
 
-## 🏆 Awards \& Recognition
-
-- 🥇 **NABARD Hackathon 2025 Winner** - Scalable MRV Solutions for Smallholder Agriculture
-- 🌾 **Best Agricultural Innovation** - TechAgriculture Conference 2025
-- 🌍 **Sustainable Development Impact Award** - UN SDG Tech Challenge
-- 👥 **Farmer-First Design Excellence** - Digital Agriculture Summit 2025
-- 🚀 **Most Promising AgriTech Startup** - India AgriTech Awards
-
-***
-
 ## 📞 Support \& Contact
 
 ### 🛠️ Technical Support
